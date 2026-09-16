@@ -7,11 +7,11 @@ To learn how network communication works by using the application Wireshark. To 
 
 # Tools Used
 
--Wireshark
--Firefox Web Browser
--TCP/IP
--DNS
--HTTPS
+- Wireshark
+- Firefox Web Browser
+- TCP/IP
+- DNS
+- HTTPS
 
 # Project Overview
 
