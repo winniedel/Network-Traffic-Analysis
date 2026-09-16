@@ -19,10 +19,10 @@ While accessing websites, I captured network traffic and analyzed their packets 
 
 ## 1. DNS Analysis
 # What I investigated
--DNS queries and responses
--Domain names
--DNS server
--IP addresses returned by DNS
+- DNS queries and responses
+- Domain names
+- DNS server
+- IP addresses returned by DNS
 
 ## Findings 
 
